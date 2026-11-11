@@ -1,0 +1,16 @@
+# Dataset files
+data/*.xlsx
+data/*.zip
+data/*.csv
+
+# Python
+_pycache_/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# Local environment files
+.env
+data/processed/*.csv
